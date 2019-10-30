@@ -25,7 +25,9 @@ navbar-links:
     - Overview: "Science"
     - PubMed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Beck%20R%5BAuthor%5D&cauthor=true&cauthor_uid=30675811"
     - Google Scholar: "https://scholar.google.com/citations?user=srkMogQAAAAJ&hl=en"
+  Art:  
     - Lab Notebook Art: "Art"
+    - Data Visualizations: "DataViz"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
