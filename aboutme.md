@@ -1,7 +1,7 @@
 
 
-## Rowan Beck ##
-## PhD Candidate: Genetics & Molecular Biology, School of Medicine, [UNC Chapel Hill](http://www.unc.edu/) ##
+## Rowan Beck 
+## PhD Candidate: Genetics & Molecular Biology, School of Medicine, [UNC Chapel Hill](http://www.unc.edu/) 
 
 
 
