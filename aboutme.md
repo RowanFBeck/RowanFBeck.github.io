@@ -1,10 +1,10 @@
-# Rowan F Beck
+
 
 ## PhD Candidate: Genetics & Molecular Biology, School of Medicine, [UNC Chapel Hill](http://www.unc.edu/)
 
 
 
-<img src="C:\Users\Rowan\Pictures\avatar-icon.png" style="zoom:75%;" />
+<img src= "/img/aboutme.png"  style="zoom:75%;" />
 
 
 
