@@ -1,13 +1,15 @@
+```
+---
+title: About me
+subtitle: Here you'll find out a little bit about me 
+---
+```
+
+## PhD Candidate: Genetics & Molecular Biology, School of Medicine, [UNC Chapel Hill](http://www.unc.edu/)
 
 
-## Rowan Beck 
-## PhD Candidate: Genetics & Molecular Biology, School of Medicine, [UNC Chapel Hill](http://www.unc.edu/) 
 
-
-
-<p align="center"> 
-<img src= "/img/aboutme.png"  style="zoom:75%;" />>
-</p>
+<img src= "/img/aboutme.png"  style="zoom:75%;" />
 
 
 
@@ -23,6 +25,6 @@
 
 
 
-### Contact
+# Contact
 
 You can [email me](mailto:rowan.far@gmail.com?subject=Hello!) or find me on [LinkedIn](https://linkedin.com/in/rfbeck) if you want to get in touch. I love meeting new people so please feel free to send a message!
