@@ -1,11 +1,9 @@
-```yaml
 ---
 layout: page
 title: About me
 subtitle: Here you'll find out a little bit about me 
 use-site-title: true
 ---
-```
 
 ## PhD Candidate: Genetics & Molecular Biology, School of Medicine, [UNC Chapel Hill](http://www.unc.edu/)
 
