@@ -4,7 +4,8 @@ title: About me
 subtitle: Here you'll find out a little bit about me 
 ---
 
-## PhD Candidate: Genetics & Molecular Biology, School of Medicine, [UNC Chapel Hill](http://www.unc.edu/)
+ 
+## Hi! My name is Rowan. I'm a PhD Candidate in Genetics & Molecular Biology within the School of Medicine at [UNC Chapel Hill](http://www.unc.edu/)
 
 
 
