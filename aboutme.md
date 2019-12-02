@@ -15,7 +15,7 @@ subtitle: Here you'll find out a little bit about me
 
 ### Profiles
 
-- [CV](https://derekogle.com/resources/CV.pdf)
+- [CV](https://drive.google.com/open?id=1UB1BrxZJEaXphc1e68eSVEgPQaufr-G_)
 - [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Beck%20R%5BAuthor%5D&cauthor=true&cauthor_uid=30675811) /  [Google Scholar](https://scholar.google.com/citations?user=srkMogQAAAAJ&hl=en) / 
 
 ### Education
