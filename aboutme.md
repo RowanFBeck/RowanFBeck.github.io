@@ -8,11 +8,8 @@ use-site-title: true
 ```
 
 ## Hi! My name is Rowan and I’m a scientist interested in better understanding how certain chemicals or compounds interact with the body and how these interactions can potentially affect health outcomes.
-My expertise includes project design and management, data analysis and interpretation, and implementing collaborations across multidisciplinary groups. I have extensive laboratory knowledge in toxicology and molecular biology, including both "wet-lab" and computational analyses.      
 
-## In my spare time I like to take photos, listen to/play music, and enjoy the outdoors.                                               
-
-
+## My expertise includes project design and management, data analysis and interpretation, and implementing collaborations across multidisciplinary groups. I have extensive laboratory knowledge in toxicology and molecular biology, including both "wet-lab" and computational analyses. In my spare time I like to take photos, listen to/play music, and enjoy the outdoors.       
 
 
 
