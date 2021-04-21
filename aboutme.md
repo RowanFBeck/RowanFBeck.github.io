@@ -1,11 +1,18 @@
+```yaml
 ---
 layout: page
-title: About me
-subtitle: Here you'll find out a little bit about me 
+title: Rowan F Beck
+subtitle: All of my puns are intended.
+use-site-title: true
 ---
+```
 
- 
-## Hi! My name is Rowan. I'm a PhD Candidate in Genetics & Molecular Biology within the School of Medicine at [UNC Chapel Hill](http://www.unc.edu/)
+## Hi! My name is Rowan and I’m a scientist interested in better understanding how certain chemicals or compounds interact with the body and how these interactions can potentially affect health outcomes.
+My expertise includes project design and management, data analysis and interpretation, and implementing collaborations across multidisciplinary groups. I have extensive laboratory knowledge in toxicology and molecular biology, including both "wet-lab" and computational analyses.      
+
+## In my spare time I like to take photos, listen to/play music, and enjoy the outdoors.                                               
+
+
 
 
 
@@ -15,16 +22,18 @@ subtitle: Here you'll find out a little bit about me
 
 ### Profiles
 
-- [CV](https://drive.google.com/open?id=1UB1BrxZJEaXphc1e68eSVEgPQaufr-G_)
+- [CV](https://derekogle.com/resources/CV.pdf)
 - [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Beck%20R%5BAuthor%5D&cauthor=true&cauthor_uid=30675811) /  [Google Scholar](https://scholar.google.com/citations?user=srkMogQAAAAJ&hl=en) / 
 
 ### Education
 
-- Ph.D (anticipated 2019), Genetics & Molecular Biology, [University of North Carolina at Chapel Hill](http://gmb.unc.edu/)
+- Ph.D, Genetics & Molecular Biology, [University of North Carolina at Chapel Hill](http://gmb.unc.edu/)
 - B.Sc (2013), Biology, [University of the District of Columbia](http://www.udc.edu/)
 
 
 
 # Contact
 
-You can [email me](mailto:rowan.far@gmail.com?subject=Hello!) or find me on [LinkedIn](https://linkedin.com/in/rfbeck) if you want to get in touch. I love meeting new people so please feel free to send a message!
+I love to connect with new people and build new relationships, so feel free to send me a message! 
+
+You can [email me](mailto:rowan.far@gmail.com?subject=Hello!) or find me on [LinkedIn](https://linkedin.com/in/rfbeck) if you want to get in touch. 
